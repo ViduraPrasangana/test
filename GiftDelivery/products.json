@@ -1,0 +1,76 @@
+{
+    "results": [
+    {
+        "title": "Favourites landscapes 1",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "image": "https://i.imgur.com/SsJmZ9jl.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 2",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+        "image": "https://i.imgur.com/5tj6S7Ol.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 3",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat",
+        "image": "https://i.imgur.com/pmSqIFZl.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 4",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+        "image": "https://i.imgur.com/cA8zoGel.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 5",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "image": "https://i.imgur.com/pewusMzl.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 6",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat",
+        "image": "https://i.imgur.com/l49aYS3l.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 4",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+        "image": "https://i.imgur.com/cA8zoGel.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 5",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "image": "https://i.imgur.com/pewusMzl.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 6",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat",
+        "image": "https://i.imgur.com/l49aYS3l.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 4",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat mergitur",
+        "image": "https://i.imgur.com/cA8zoGel.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 5",
+        "subtitle": "Lorem ipsum dolor sit amet",
+        "image": "https://i.imgur.com/pewusMzl.jpg",
+        "price": 400
+    },
+    {
+        "title": "Favourites landscapes 6",
+        "subtitle": "Lorem ipsum dolor sit amet et nuncat",
+        "image": "https://i.imgur.com/l49aYS3l.jpg",
+        "price": 400
+    }
+]
+}
